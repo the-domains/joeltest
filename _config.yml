@@ -1,0 +1,23 @@
+name: Joeltest
+favicon: null
+layout_spectrum: 0.6366452248767018
+typography_spectrum: 0.8718164805322886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7495218431577086
+  lightness: 0.15253306203521788
+  saturation: 0.2866745740175247
+  rhythmicContrast: 0.15011036931537092
+purpose: []
